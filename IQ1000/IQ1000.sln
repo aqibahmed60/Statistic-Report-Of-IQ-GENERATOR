@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IQ1000", "IQ1000\IQ1000.vcxproj", "{E5F498A2-40DE-4918-AB4D-F6B10BFE3F19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p", "p\p.vcxproj", "{9F19D55D-4BC2-40F6-981E-4DAB7653A957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F498A2-40DE-4918-AB4D-F6B10BFE3F19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5F498A2-40DE-4918-AB4D-F6B10BFE3F19}.Debug|Win32.Build.0 = Debug|Win32
+		{E5F498A2-40DE-4918-AB4D-F6B10BFE3F19}.Release|Win32.ActiveCfg = Release|Win32
+		{E5F498A2-40DE-4918-AB4D-F6B10BFE3F19}.Release|Win32.Build.0 = Release|Win32
+		{9F19D55D-4BC2-40F6-981E-4DAB7653A957}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F19D55D-4BC2-40F6-981E-4DAB7653A957}.Debug|Win32.Build.0 = Debug|Win32
+		{9F19D55D-4BC2-40F6-981E-4DAB7653A957}.Release|Win32.ActiveCfg = Release|Win32
+		{9F19D55D-4BC2-40F6-981E-4DAB7653A957}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
